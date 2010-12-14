@@ -1,0 +1,5 @@
+.*\.pyc$
+.*\.pyo$
+glob:ffield.lut.8
+glob:.pydevproject
+glob:.project
