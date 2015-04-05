@@ -1,8 +1,8 @@
 # datascrambler
 Datascrambler a command line application to encrypt and scramble (or ofuscate?) information!. It Uses AES (pycrypto) and Reed-Solomon (py_ecc) to Scramble the data. Is written in Python and is cross-platform. See the StartHere on Wiki to more information... Or maybe you need to know HowThisWork :) 
 
-#A good place to Start...
-Introduction
+##A good place to Start...
+###Introduction
 
 This code allow you to encode and scramble data, what this means?, this means that you can split the original file in parts, delete some of the information and still be able to reconstruct the original data. This can be done thanks to reed-solomon alg. So you can split the data in several files and save it in different locations, you need all the minimal parts indicated to reconstruct the information, if you get less parts, you cant reconstruct the original file, and can't decrypt the data.
 
