@@ -24,8 +24,7 @@ So what's next?, you can keep all the parts all you want, all the file parts if 
 
 Later we can recover the original file using all the parts that we can get (remember always needs a minumun of MIN_PARTS) and using this script.
 
-For a beter undestanding of see HowThisWork
-Even More details
+For a beter undestanding of see https://github.com/qlixed/datascrambler/wiki/HowThisWork Even More details
 
 More?, ok: You want to know more about this? so i "recommend" this links:
 
