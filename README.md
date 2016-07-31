@@ -1,5 +1,5 @@
 # datascrambler
-Datascrambler a command line application to encrypt and scramble (or ofuscate?) information!. It Uses AES (pycrypto) and Reed-Solomon (py_ecc) to Scramble the data. Is written in Python and is cross-platform. See the StartHere on Wiki to more information... Or maybe you need to know HowThisWork :) 
+Datascrambler a command line application to encrypt and scramble (or ofuscate?) information!. It Uses AES (pycrypto) and Reed-Solomon (py_ecc) to Scramble the data. Is written in Python and is cross-platform. See the Home https://github.com/qlixed/datascrambler/wiki/Home on Wiki to more information... Or maybe you need to know How it works: https://github.com/qlixed/datascrambler/wiki/HowThisWork :) 
 
 ##A good place to Start...
 ###Introduction
